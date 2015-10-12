@@ -11,6 +11,7 @@ public class ArrangementsHandler : SynchronizeWrapper
 
 
 	// Marcin Kubasik: dodałem nowy branch
+	// A teraz komentarz
 
 	public override void AddToDownloadList (string s)
 	{
