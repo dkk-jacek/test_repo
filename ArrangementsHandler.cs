@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 public class ArrangementsHandler : SynchronizeWrapper
 {
-	// Marcin Kubasik: mój komentarz
+	// Marcin Kubasik: mój komentarz i zaraz po nim JACKA
 
 	public override void AddToDownloadList (string s)
 	{
