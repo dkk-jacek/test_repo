@@ -9,6 +9,9 @@ public class ArrangementsHandler : SynchronizeWrapper
 	// Marcin Kubasik: mój trzeci komentarz
 	// Marcin Kubasik: mój czwarty komentarz
 
+
+	// Marcin Kubasik: dodałem nowy branch
+
 	public override void AddToDownloadList (string s)
 	{
 		downloadPath = downloadParentPath + "/" + s;
