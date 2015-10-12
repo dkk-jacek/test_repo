@@ -8,6 +8,7 @@ public class ArrangementsHandler : SynchronizeWrapper
 
 	// Marcin Kubasik: mój drugi komentarz
 	// Marcin Kubasik: mój trzeci komentarz
+	// Marcin Kubasik: mój czwarty komentarz
 
 	public override void AddToDownloadList (string s)
 	{
