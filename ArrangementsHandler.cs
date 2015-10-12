@@ -6,6 +6,8 @@ public class ArrangementsHandler : SynchronizeWrapper
 {
 	// Marcin Kubasik: mój komentarz i zaraz po nim JACKA
 
+	// Marcin Kubasik: mój drugi komentarz
+
 	public override void AddToDownloadList (string s)
 	{
 		downloadPath = downloadParentPath + "/" + s;
