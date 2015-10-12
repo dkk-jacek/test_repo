@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 public class ArrangementsHandler : SynchronizeWrapper
 {
-	// Marcin Kubasik: mój komentarz i zaraz po nim JACKA
+	// Marcin Kubasik: mój komentarz i zaraz po nim JACKA dsadsa
 
 	// Marcin Kubasik: mój drugi komentarz
 
