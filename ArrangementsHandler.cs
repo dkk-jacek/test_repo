@@ -4,6 +4,8 @@ using System.Collections.Generic;
 
 public class ArrangementsHandler : SynchronizeWrapper
 {
+	// Marcin Kubasik: mój komentarz
+
 	public override void AddToDownloadList (string s)
 	{
 		downloadPath = downloadParentPath + "/" + s;
