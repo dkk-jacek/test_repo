@@ -9,7 +9,7 @@ public class ArrangementsHandler : SynchronizeWrapper
 	// Marcin Kubasik: mój trzeci komentarz
 	// Marcin Kubasik: mój czwarty komentarz
 
-
+	// moja zmiana: Jacek
 	// Marcin Kubasik: dodałem nowy branch
 
 	public override void AddToDownloadList (string s)
